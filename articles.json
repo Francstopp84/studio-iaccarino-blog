@@ -1,26 +1,18 @@
 [
- {
-  "slug": "concordato-minore-per-professionisti-con-debiti-oltre-500mila-euro",
-  "titolo": "Concordato minore per professionisti con debiti oltre 500mila euro",
-  "descrizione": "Il concordato minore è accessibile ai professionisti anche con debiti superiori a 500.000 euro. Ecco come funziona e cosa dice la legge.",
-  "area": "Tributario",
-  "data_it": "16 novembre 2026",
-  "data_iso": "2026-11-16"
- },
- {
-  "slug": "sfratto-eredi-inquilino-moroso-a-napoli-cosa-dice-la",
-  "titolo": "Sfratto eredi inquilino moroso a Napoli: cosa dice la legge",
-  "descrizione": "Cosa succede se l'inquilino muore lasciando debiti? Gli eredi possono essere sfrattati? Ecco come muoversi correttamente secondo la normativa vigente.",
-  "area": "Civile",
-  "data_it": "15 novembre 2026",
-  "data_iso": "2026-11-15"
- },
- {
-  "slug": "arrestato-o-fermato-cosa-succede-nelle-prime-48-ore",
-  "titolo": "Arrestato o fermato: cosa succede nelle prime 48 ore?",
-  "descrizione": "Arresto o fermo di un familiare: diritti, nomina del difensore, termini di 24 e 48 ore, udienza di convalida davanti al GIP e possibili esiti.",
-  "area": "Penale",
-  "data_it": "14 novembre 2026",
-  "data_iso": "2026-11-14"
- }
+  {
+    "slug": "sfratto-eredi-inquilino-moroso-a-napoli-cosa-dice-la",
+    "titolo": "Sfratto eredi inquilino moroso a Napoli: cosa dice la legge",
+    "descrizione": "Cosa succede se l'inquilino muore lasciando debiti? Gli eredi possono essere sfrattati? Ecco come muoversi correttamente secondo la normativa vigente.",
+    "area": "Civile",
+    "data_it": "15 novembre 2026",
+    "data_iso": "2026-11-15"
+  },
+  {
+    "slug": "arrestato-o-fermato-cosa-succede-nelle-prime-48-ore",
+    "titolo": "Arrestato o fermato: cosa succede nelle prime 48 ore?",
+    "descrizione": "Arresto o fermo di un familiare: diritti, nomina del difensore, termini di 24 e 48 ore, udienza di convalida davanti al GIP e possibili esiti.",
+    "area": "Penale",
+    "data_it": "14 novembre 2026",
+    "data_iso": "2026-11-14"
+  }
 ]
