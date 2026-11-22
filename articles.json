@@ -1,157 +1,165 @@
 [
-  {
-    "slug": "muffa-e-infiltrazioni-il-tribunale-di-napoli-ordina-lavori",
-    "titolo": "Muffa e infiltrazioni: il Tribunale di Napoli ordina lavori urgenti",
-    "descrizione": "Infiltrazioni e muffa in casa? Scopri come ottenere lavori immediati dal condominio quando la salute è a rischio. Guida pratica dell'Avv. Francesco Iaccarino.",
-    "area": "Civile",
-    "data_it": "18 novembre 2026",
-    "data_iso": "2026-11-18"
-  },
-  {
-    "slug": "tutte-le-guide-legali",
-    "titolo": "Tutte le guide legali dello Studio Iaccarino",
-    "descrizione": "Elenco completo delle guide legali dello Studio Legale Iaccarino di Napoli.",
-    "area": "Guide",
-    "data_it": "",
-    "data_iso": "2026-11-17",
-    "hub": true
-  },
-  {
-    "slug": "impedimento-visite-figlio-quando-il-rifiuto-del-minore-e",
-    "titolo": "Impedimento visite figlio: quando il rifiuto del minore è reato",
-    "descrizione": "Il genitore che impedisce le visite all'ex rischia il penale, anche se il figlio non vuole andare. Cosa dice la legge e come tutelarsi correttamente.",
-    "area": "Famiglia",
-    "data_it": "17 novembre 2026",
-    "data_iso": "2026-11-17"
-  },
-  {
-    "slug": "nuova-convivenza-e-mantenimento-quando-si-perde-il-diritto",
-    "titolo": "Nuova convivenza e mantenimento: quando si perde il diritto?",
-    "descrizione": "La nuova convivenza fa perdere l'assegno di mantenimento? Scopri cosa dice la Cassazione e quando resta l'eccezione per chi ha sacrificato la carriera.",
-    "area": "Famiglia",
-    "data_it": "17 novembre 2026",
-    "data_iso": "2026-11-17"
-  },
-  {
-    "slug": "dimissioni-per-mancato-versamento-contributi-come-ottenere-la-naspi",
-    "titolo": "Dimissioni per mancato versamento contributi: come ottenere la NASpI",
-    "descrizione": "Scopri come rassegnare le dimissioni per giusta causa in caso di contributi non versati e ottenere la NASpI. Guida pratica per tutelare i tuoi diritti.",
-    "area": "Lavoro",
-    "data_it": "16 novembre 2026",
-    "data_iso": "2026-11-16"
-  },
-  {
-    "slug": "concordato-minore-per-professionisti-con-debiti-oltre-500mila-euro",
-    "titolo": "Concordato minore per professionisti con debiti oltre 500mila euro",
-    "descrizione": "Il concordato minore è accessibile ai professionisti anche con debiti superiori a 500.000 euro. Ecco come funziona e cosa dice la legge.",
-    "area": "Tributario",
-    "data_it": "16 novembre 2026",
-    "data_iso": "2026-11-16"
-  },
-  {
-    "slug": "sfratto-eredi-inquilino-moroso-a-napoli-cosa-dice-la",
-    "titolo": "Sfratto eredi inquilino moroso a Napoli: cosa dice la legge",
-    "descrizione": "Cosa succede se l'inquilino muore lasciando debiti? Gli eredi possono essere sfrattati? Ecco come muoversi correttamente secondo la normativa vigente.",
-    "area": "Civile",
-    "data_it": "15 novembre 2026",
-    "data_iso": "2026-11-15"
-  },
-  {
-    "slug": "arrestato-o-fermato-cosa-succede-nelle-prime-48-ore",
-    "titolo": "Arrestato o fermato: cosa succede nelle prime 48 ore?",
-    "descrizione": "Arresto o fermo di un familiare: diritti, nomina del difensore, termini di 24 e 48 ore, udienza di convalida davanti al GIP e possibili esiti.",
-    "area": "Penale",
-    "data_it": "14 novembre 2026",
-    "data_iso": "2026-11-14"
-  },
-  {
-    "slug": "arrestato-o-fermato-cosa-succede-nelle-prime-48-ore-3",
-    "titolo": "Arrestato o fermato: cosa succede nelle prime 48 ore?",
-    "descrizione": "Arresto o fermo di un familiare: diritti, nomina del difensore, termini di 24 e 48 ore, udienza di convalida davanti al GIP e possibili esiti.",
-    "area": "Penale",
-    "data_it": "14 novembre 2026",
-    "data_iso": "2026-11-14",
-    "statico": true
-  },
-  {
-    "slug": "sanatoria-edilizia-e-demolizione-il-comune-puo-procedere",
-    "titolo": "Sanatoria edilizia e demolizione: il Comune può procedere?",
-    "descrizione": "Presentare la sanatoria blocca la demolizione? Scopri come funziona la sospensione dell'ordine di demolizione e cosa succede in caso di rigetto.",
-    "area": "Civile",
-    "data_it": "14 novembre 2026",
-    "data_iso": "2026-11-14",
-    "statico": true
-  },
-  {
-    "slug": "debiti-e-auto-quando-e-possibile-evitare-il-pignoramento",
-    "titolo": "Debiti e auto: quando è possibile evitare il pignoramento?",
-    "descrizione": "Scopri le novità sulla liquidazione controllata: come salvare l'auto dai creditori se serve per lavoro, studio o salute. Guida pratica dello Studio Iaccarino.",
-    "area": "Tributario",
-    "data_it": "14 novembre 2026",
-    "data_iso": "2026-11-14",
-    "statico": true
-  },
-  {
-    "slug": "eredita-svuotata-da-donazioni-come-tutelare-la-propria-quota",
-    "titolo": "Eredità svuotata da donazioni: come tutelare la propria quota",
-    "descrizione": "Scopri come agire se un genitore ha donato beni in vita penalizzando gli altri eredi. Guida pratica sul recupero della legittima e l'azione di riduzione.",
-    "area": "Famiglia",
-    "data_it": "14 novembre 2026",
-    "data_iso": "2026-11-14",
-    "statico": true
-  },
-  {
-    "slug": "controlli-fiscali-come-nascono-e-come-difendersi",
-    "titolo": "Controlli fiscali: come nascono e come difendersi",
-    "descrizione": "Come nascono i controlli dell'Agenzia delle Entrate, quali anomalie fanno scattare l'accertamento fiscale e come difendere i propri diritti.",
-    "area": "Tributario",
-    "data_it": "2 novembre 2026",
-    "data_iso": "2026-11-02",
-    "statico": true
-  },
-  {
-    "slug": "licenziamento-entro-quanto-impugnare",
-    "titolo": "Licenziamento: entro quanto tempo va impugnato",
-    "descrizione": "Ti hanno licenziato? Hai 60 giorni per impugnare il licenziamento e poi 180 giorni per il ricorso al giudice. Cosa fare subito, passo per passo.",
-    "area": "Lavoro",
-    "data_it": "2 novembre 2026",
-    "data_iso": "2026-11-02",
-    "statico": true
-  },
-  {
-    "slug": "quanto-costa-avvocato-permesso-di-soggiorno",
-    "titolo": "Quanto costa un avvocato per il permesso di soggiorno",
-    "descrizione": "Quanto costa un avvocato per il permesso di soggiorno, il rinnovo, la conversione o il ricorso contro un diniego? Come si forma il compenso e quando c'e' il patrocinio a spese dello Stato.",
-    "area": "Immigrazione",
-    "data_it": "2 novembre 2026",
-    "data_iso": "2026-11-02",
-    "statico": true
-  },
-  {
-    "slug": "cartella-esattoriale-5-motivi-impugnarla",
-    "titolo": "Cartella esattoriale: 5 motivi per impugnarla",
-    "descrizione": "Hai ricevuto una cartella esattoriale? Non pagarla senza prima verificare. Dalla prescrizione ai vizi di notifica, ecco i 5 motivi per cui potrebbe essere illegittima e come difenderti.",
-    "area": "Tributario",
-    "data_it": "19 marzo 2026",
-    "data_iso": "2026-03-19",
-    "statico": true
-  },
-  {
-    "slug": "separazione-consensuale-giudiziale-quale-scegliere",
-    "titolo": "Separazione consensuale o giudiziale: quale scegliere?",
-    "descrizione": "Tempi, costi e differenze tra separazione consensuale e giudiziale. Guida pratica per chi sta affrontando una separazione a Napoli, con focus sulla negoziazione assistita.",
-    "area": "Famiglia",
-    "data_it": "7 marzo 2026",
-    "data_iso": "2026-03-07",
-    "statico": true
-  },
-  {
-    "slug": "arresto-cosa-fare-prime-48-ore",
-    "titolo": "Arresto: cosa fare nelle prime 48 ore",
-    "descrizione": "Cosa succede dopo un arresto? Quali sono i diritti dell’arrestato? Come funziona l’udienza di convalida? Guida pratica dell’Avv. Iaccarino per le prime 48 ore critiche.",
-    "area": "Penale",
-    "data_it": "6 marzo 2026",
-    "data_iso": "2026-03-06",
-    "statico": true
-  }
+ {
+  "slug": "bancarotta-fraudolenta-e-testa-di-legno-rischi-penali",
+  "titolo": "Bancarotta e testa di legno: chi risponde dei reati fallimentari?",
+  "descrizione": "Cosa rischia chi accetta una carica sociale come prestanome? Analisi sulla responsabilità penale tra amministratore di fatto e di diritto nel fallimento.",
+  "area": "Civile",
+  "data_it": "22 novembre 2026",
+  "data_iso": "2026-11-22"
+ },
+ {
+  "slug": "muffa-e-infiltrazioni-il-tribunale-di-napoli-ordina-lavori",
+  "titolo": "Muffa e infiltrazioni: il Tribunale di Napoli ordina lavori urgenti",
+  "descrizione": "Infiltrazioni e muffa in casa? Scopri come ottenere lavori immediati dal condominio quando la salute è a rischio. Guida pratica dell'Avv. Francesco Iaccarino.",
+  "area": "Civile",
+  "data_it": "18 novembre 2026",
+  "data_iso": "2026-11-18"
+ },
+ {
+  "slug": "tutte-le-guide-legali",
+  "titolo": "Tutte le guide legali dello Studio Iaccarino",
+  "descrizione": "Elenco completo delle guide legali dello Studio Legale Iaccarino di Napoli.",
+  "area": "Guide",
+  "data_it": "",
+  "data_iso": "2026-11-17",
+  "hub": true
+ },
+ {
+  "slug": "impedimento-visite-figlio-quando-il-rifiuto-del-minore-e",
+  "titolo": "Impedimento visite figlio: quando il rifiuto del minore è reato",
+  "descrizione": "Il genitore che impedisce le visite all'ex rischia il penale, anche se il figlio non vuole andare. Cosa dice la legge e come tutelarsi correttamente.",
+  "area": "Famiglia",
+  "data_it": "17 novembre 2026",
+  "data_iso": "2026-11-17"
+ },
+ {
+  "slug": "nuova-convivenza-e-mantenimento-quando-si-perde-il-diritto",
+  "titolo": "Nuova convivenza e mantenimento: quando si perde il diritto?",
+  "descrizione": "La nuova convivenza fa perdere l'assegno di mantenimento? Scopri cosa dice la Cassazione e quando resta l'eccezione per chi ha sacrificato la carriera.",
+  "area": "Famiglia",
+  "data_it": "17 novembre 2026",
+  "data_iso": "2026-11-17"
+ },
+ {
+  "slug": "dimissioni-per-mancato-versamento-contributi-come-ottenere-la-naspi",
+  "titolo": "Dimissioni per mancato versamento contributi: come ottenere la NASpI",
+  "descrizione": "Scopri come rassegnare le dimissioni per giusta causa in caso di contributi non versati e ottenere la NASpI. Guida pratica per tutelare i tuoi diritti.",
+  "area": "Lavoro",
+  "data_it": "16 novembre 2026",
+  "data_iso": "2026-11-16"
+ },
+ {
+  "slug": "concordato-minore-per-professionisti-con-debiti-oltre-500mila-euro",
+  "titolo": "Concordato minore per professionisti con debiti oltre 500mila euro",
+  "descrizione": "Il concordato minore è accessibile ai professionisti anche con debiti superiori a 500.000 euro. Ecco come funziona e cosa dice la legge.",
+  "area": "Tributario",
+  "data_it": "16 novembre 2026",
+  "data_iso": "2026-11-16"
+ },
+ {
+  "slug": "sfratto-eredi-inquilino-moroso-a-napoli-cosa-dice-la",
+  "titolo": "Sfratto eredi inquilino moroso a Napoli: cosa dice la legge",
+  "descrizione": "Cosa succede se l'inquilino muore lasciando debiti? Gli eredi possono essere sfrattati? Ecco come muoversi correttamente secondo la normativa vigente.",
+  "area": "Civile",
+  "data_it": "15 novembre 2026",
+  "data_iso": "2026-11-15"
+ },
+ {
+  "slug": "arrestato-o-fermato-cosa-succede-nelle-prime-48-ore",
+  "titolo": "Arrestato o fermato: cosa succede nelle prime 48 ore?",
+  "descrizione": "Arresto o fermo di un familiare: diritti, nomina del difensore, termini di 24 e 48 ore, udienza di convalida davanti al GIP e possibili esiti.",
+  "area": "Penale",
+  "data_it": "14 novembre 2026",
+  "data_iso": "2026-11-14"
+ },
+ {
+  "slug": "arrestato-o-fermato-cosa-succede-nelle-prime-48-ore-3",
+  "titolo": "Arrestato o fermato: cosa succede nelle prime 48 ore?",
+  "descrizione": "Arresto o fermo di un familiare: diritti, nomina del difensore, termini di 24 e 48 ore, udienza di convalida davanti al GIP e possibili esiti.",
+  "area": "Penale",
+  "data_it": "14 novembre 2026",
+  "data_iso": "2026-11-14",
+  "statico": true
+ },
+ {
+  "slug": "sanatoria-edilizia-e-demolizione-il-comune-puo-procedere",
+  "titolo": "Sanatoria edilizia e demolizione: il Comune può procedere?",
+  "descrizione": "Presentare la sanatoria blocca la demolizione? Scopri come funziona la sospensione dell'ordine di demolizione e cosa succede in caso di rigetto.",
+  "area": "Civile",
+  "data_it": "14 novembre 2026",
+  "data_iso": "2026-11-14",
+  "statico": true
+ },
+ {
+  "slug": "debiti-e-auto-quando-e-possibile-evitare-il-pignoramento",
+  "titolo": "Debiti e auto: quando è possibile evitare il pignoramento?",
+  "descrizione": "Scopri le novità sulla liquidazione controllata: come salvare l'auto dai creditori se serve per lavoro, studio o salute. Guida pratica dello Studio Iaccarino.",
+  "area": "Tributario",
+  "data_it": "14 novembre 2026",
+  "data_iso": "2026-11-14",
+  "statico": true
+ },
+ {
+  "slug": "eredita-svuotata-da-donazioni-come-tutelare-la-propria-quota",
+  "titolo": "Eredità svuotata da donazioni: come tutelare la propria quota",
+  "descrizione": "Scopri come agire se un genitore ha donato beni in vita penalizzando gli altri eredi. Guida pratica sul recupero della legittima e l'azione di riduzione.",
+  "area": "Famiglia",
+  "data_it": "14 novembre 2026",
+  "data_iso": "2026-11-14",
+  "statico": true
+ },
+ {
+  "slug": "controlli-fiscali-come-nascono-e-come-difendersi",
+  "titolo": "Controlli fiscali: come nascono e come difendersi",
+  "descrizione": "Come nascono i controlli dell'Agenzia delle Entrate, quali anomalie fanno scattare l'accertamento fiscale e come difendere i propri diritti.",
+  "area": "Tributario",
+  "data_it": "2 novembre 2026",
+  "data_iso": "2026-11-02",
+  "statico": true
+ },
+ {
+  "slug": "licenziamento-entro-quanto-impugnare",
+  "titolo": "Licenziamento: entro quanto tempo va impugnato",
+  "descrizione": "Ti hanno licenziato? Hai 60 giorni per impugnare il licenziamento e poi 180 giorni per il ricorso al giudice. Cosa fare subito, passo per passo.",
+  "area": "Lavoro",
+  "data_it": "2 novembre 2026",
+  "data_iso": "2026-11-02",
+  "statico": true
+ },
+ {
+  "slug": "quanto-costa-avvocato-permesso-di-soggiorno",
+  "titolo": "Quanto costa un avvocato per il permesso di soggiorno",
+  "descrizione": "Quanto costa un avvocato per il permesso di soggiorno, il rinnovo, la conversione o il ricorso contro un diniego? Come si forma il compenso e quando c'e' il patrocinio a spese dello Stato.",
+  "area": "Immigrazione",
+  "data_it": "2 novembre 2026",
+  "data_iso": "2026-11-02",
+  "statico": true
+ },
+ {
+  "slug": "cartella-esattoriale-5-motivi-impugnarla",
+  "titolo": "Cartella esattoriale: 5 motivi per impugnarla",
+  "descrizione": "Hai ricevuto una cartella esattoriale? Non pagarla senza prima verificare. Dalla prescrizione ai vizi di notifica, ecco i 5 motivi per cui potrebbe essere illegittima e come difenderti.",
+  "area": "Tributario",
+  "data_it": "19 marzo 2026",
+  "data_iso": "2026-03-19",
+  "statico": true
+ },
+ {
+  "slug": "separazione-consensuale-giudiziale-quale-scegliere",
+  "titolo": "Separazione consensuale o giudiziale: quale scegliere?",
+  "descrizione": "Tempi, costi e differenze tra separazione consensuale e giudiziale. Guida pratica per chi sta affrontando una separazione a Napoli, con focus sulla negoziazione assistita.",
+  "area": "Famiglia",
+  "data_it": "7 marzo 2026",
+  "data_iso": "2026-03-07",
+  "statico": true
+ },
+ {
+  "slug": "arresto-cosa-fare-prime-48-ore",
+  "titolo": "Arresto: cosa fare nelle prime 48 ore",
+  "descrizione": "Cosa succede dopo un arresto? Quali sono i diritti dell’arrestato? Come funziona l’udienza di convalida? Guida pratica dell’Avv. Iaccarino per le prime 48 ore critiche.",
+  "area": "Penale",
+  "data_it": "6 marzo 2026",
+  "data_iso": "2026-03-06",
+  "statico": true
+ }
 ]
